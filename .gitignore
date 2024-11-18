@@ -1,1 +1,3 @@
-module1/module1_homework/module1_homework_codeRepo/terraform/keys/my-creds.json
+DataIngestionToPostgres/DataIngestionToPostgresGreenNYTaxiData/DataIngestionToPostgresCodeRepo/terraform/keys/my-creds.json
+.DS_Store
+course-repo/
