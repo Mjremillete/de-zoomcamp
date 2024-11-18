@@ -1,3 +1,4 @@
 DataIngestionToPostgres/DataIngestionToPostgresGreenNYTaxiData/DataIngestionToPostgresCodeRepo/terraform/keys/my-creds.json
 course-repo/
 .DS_Store
+.*/
